@@ -1,7 +1,6 @@
----
-title: Dostihy
-demand: 1
----
+# Cvičení: Dostihy
+
+## Zadání
 
 Vítejte na [dostihové dráze](https://codepen.io/ondrejzara/pen/WNQxoGL?editors=1100)! Závodiště v Chuchli je kvůli epidemii zavřené, koně fungují jen online.
 
