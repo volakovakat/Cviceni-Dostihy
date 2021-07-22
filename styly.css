@@ -51,3 +51,32 @@ ul::after {
 	left: -50px;
 	border-bottom: 2px solid red;
 }
+
+ul:hover li {
+	margin-left: 0;
+}
+
+li {
+	transition: margin-left 3s;
+}
+
+li:nth-child(2) {
+	transition-timing-function: linear;
+}
+
+
+li:nth-child(3) {
+	transition-timing-function: ease-in;
+}
+
+li:nth-child(4) {
+	transition-timing-function: steps(3);
+}
+
+li:nth-child(5) {
+	transition: 0s;
+}
+
+
+
+
